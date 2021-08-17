@@ -1,4 +1,4 @@
-# MachineLearning
+# Machine Learning
 
 ## Introduction
 Hi there! Welcome to my repository for the Machine Learning course I took in Fall '20. This repository is a collection of the machine learning projects I completed for the course.
